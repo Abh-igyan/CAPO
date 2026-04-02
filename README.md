@@ -10,6 +10,8 @@ This repository contains the full model implementation for **Arbitrage Arena 202
 ### The Strategy: Risk Parity + Regime Switch
 Unlike traditional mean-variance optimization (which often over-allocates to low-volatility assets), this model uses **Risk Parity** to ensure each asset contributes equally to the total portfolio risk. We overlay a **Regime-Switching indicator** based on NASDAQ volatility to dynamically de-risk during "Stress" regimes.
 
+<img width="1020" height="545" alt="image" src="https://github.com/user-attachments/assets/872c6d74-fd04-4e8e-b455-14b75e54f484" />
+
 ---
 
 ## 🛠️ Model Architecture

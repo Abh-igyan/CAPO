@@ -5,7 +5,7 @@
 [![Quant Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-gold.svg)](#)
 
 ## 📌 Project Overview
-This repository contains the full model implementation for **Arbitrage Arena 2026**. The goal is to construct a diversified, systematic portfolio across Equities, Crypto, Indices, and Commodities that maintains a high Sharpe Ratio and minimizes Max Drawdown during market stress events.
+The goal is to construct a diversified, systematic portfolio across Equities, Crypto, Indices, and Commodities that maintains a high Sharpe Ratio and minimizes Max Drawdown during market stress events.
 
 ### The Strategy: Risk Parity + Regime Switch
 Unlike traditional mean-variance optimization (which often over-allocates to low-volatility assets), this model uses **Risk Parity** to ensure each asset contributes equally to the total portfolio risk. We overlay a **Regime-Switching indicator** based on NASDAQ volatility to dynamically de-risk during "Stress" regimes.

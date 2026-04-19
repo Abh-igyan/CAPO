@@ -77,9 +77,8 @@ Usage
 ### Ensure your local ARBITRARY data folder is populated with the competition-provided .csv files.
 
 ## 📂 Repository Structure
-### CAPO.ipynb: Full implementation, from EDA to Backtesting.
-
-### Historical OHLCV datasets.
+- Cross-Asset Portfolio Optimization.ipynb 
+- Datasets (Historical OHLCV datasets)
 
 ### 👨‍💻 Author
 

@@ -81,4 +81,7 @@ Usage
 
 ### Historical OHLCV datasets.
 
-### Developed by Abhigyan | NIT Silchar | Arbitrage Arena 2026
+### 👨‍💻 Author
+
+#### Abhigyan Tiwari
+#### B.Tech CSE (2nd Year) | Quant Finance Enthusiast | Competitive Programming | ML/DL
